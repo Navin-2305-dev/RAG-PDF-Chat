@@ -15,7 +15,7 @@ This project enables users to **chat with their uploaded PDF documents** using t
 ## 📽️ Demo
 
 Check out a video demo of the project in action!  
-*(Attach video link or embed if available)*
+<video controls src="rag.mp4" title="Title"></video>
 
 ## 🔧 Tech Stack
 
