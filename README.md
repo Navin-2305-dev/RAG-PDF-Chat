@@ -53,26 +53,9 @@ uv pip install -r requirements.txt
 ```bash
 python app.py
 ```
-Visit `http://127.0.0.1:5000/` in your browser.
 
 ## 📂 Project Flow
 
 ```
 Upload PDF -> Chunk & Embed -> Store in Weaviate -> User Query -> Vector Search -> Context Passed to LLM -> Generate Answer
 ```
-
-## 🤝 Acknowledgements
-
-- Thanks to **Sunny Savita** for insightful Generative AI videos that helped guide this project.
-
-## 📎 GitHub Repo
-
-[https://github.com/Navin-2305-dev/RAG-PDF-Chat](https://github.com/Navin-2305-dev/RAG-PDF-Chat)
-
-## 🏷️ Tags
-
-#AI #RAG #LangChain #Python #Weaviate #LLM #Ollama #Mistral #PDFChat #uvpm #OpenSourceProject #GenerativeAI
-
----
-
-**Built with ❤️ by [Navin B](https://github.com/Navin-2305-dev)**
